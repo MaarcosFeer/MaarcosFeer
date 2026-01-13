@@ -1,25 +1,59 @@
-<h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">SWE student </h3>
+# Hi, I'm Marcos Fernandez 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maarcosfeer&label=Profile%20views&color=0e75b6&style=flat" alt="maarcosfeer" /> </p>
+### Software Engineering Student (5th Year) | Full Stack Developer & Automation Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maarcosfeer" alt="maarcosfeer" /></a> </p>
+I am currently in the final year of my degree, passionate about building modern web applications and solving real-world problems through automation. I specialize in the JavaScript/TypeScript ecosystem and Python for data-driven solutions.
 
-- 🔭 I’m currently working on **ControlEmployees**
+- 🔭 **Currently working on:** A 365-day coding challenge and scalable web applications using Next.js.
+- 🌱 **Deepening my knowledge in:** End-to-End testing with **Playwright** and advanced **React** patterns.
+- 🎯 **Goal:** To join an engineering team where I can leverage my Full Stack skills to build high-impact products.
+- 📫 **Reach me at:** [marcosfernandezdev@gmail.com](mailto:marcosfernandezdev@gmail.com)
 
-- 🌱 I’m currently learning **Spring, Angular, MySQL**
+---
 
-- 📫 How to reach me **marcosfernandezdev@gmail.com**
+## 🛠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcos fernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos fernandez" height="30" width="40" /></a>
-</p>
+I focus on building type-safe, scalable applications using the React ecosystem, backed by solid database knowledge and Python scripting skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+**Core Stack & Web**
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maarcosfeer&show_icons=true&locale=en&layout=compact" alt="maarcosfeer" /></p>
+**Data & Automation**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maarcosfeer&show_icons=true&locale=en" alt="maarcosfeer" /></p>
+**Quality & Tools**
+![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+## 📂 Featured Projects
+
+### 1. [365-data-projects](LINK_TO_REPO)
+*Python & Data Automation*
+A personal commitment to consistency and continuous learning. This repository documents my daily progress in solving data problems, scripting, and automation over a full year.
+- **Tech Stack:** Python, Pandas.
+- **Key Takeaway:** disciplined coding and script optimization.
+
+### 2. [ayuda-epuyen](LINK_TO_REPO)
+*Full Stack Web Application*
+(Description placeholder: e.g., A responsive e-commerce dashboard designed to handle real-time inventory...)
+- **Tech Stack:** Next.js, TypeScript, SQL, React.
+- **Focus:** Performance optimization and type-safe architecture.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=MaarcosFeer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaarcosFeer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+</div>
