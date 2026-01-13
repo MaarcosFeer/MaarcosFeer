@@ -1,11 +1,11 @@
 # Hi, I'm Marcos Fernandez 👋
 
-### Software Engineering Student (5th Year) | Full Stack & Systems Engineer
+### Software Engineering Student (5th Year) 
 
 I am currently in the final year of my degree. I combine strong foundations in systems programming with modern web development skills to build robust, scalable, and high-performance applications.
 
-- 🔭 **Currently working on:** A 365-day coding challenge and scalable web applications using Next.js.
-- 🌱 **Deepening my knowledge in:** End-to-End testing with **Playwright** and advanced **React** patterns.
+- 🔭 **Currently working on:** A 365-day coding challenge of data projects and scalable web applications using Next.js.
+- 🌱 **Deepening my knowledge in:** Data engineering.
 - 🎯 **Goal:** To join an engineering team where I can leverage my comprehensive coding skills to build high-impact products.
 - 📫 **Reach me at:** [marcosfernandezdev@gmail.com](mailto:marcosfernandezdev@gmail.com)
 
@@ -34,18 +34,17 @@ I am currently in the final year of my degree. I combine strong foundations in s
 
 ## 📂 Featured Projects
 
-### 1. [365-data-projects](LINK_TO_REPO)
+### 1. [ayuda-epuyen](https://github.com/MaarcosFeer/ayuda-epuyen)
+*Disaster Response & Community Map*
+A real-time aid coordination platform developed to support the Epuyen community during forest fires. It connects affected residents with volunteers through an interactive map, allowing users to geolocate requests for help or offer available resources.
+- **Tech Stack:** Next.js, TypeScript, SQL, React.
+- **Impact:** Facilitated critical communication and resource allocation during a local crisis.
+
+### 2. [365-data-projects](https://github.com/MaarcosFeer/365-data-projects)
 *Python & Data Automation*
 A personal commitment to consistency and continuous learning. This repository documents my daily progress in solving data problems, scripting, and automation over a full year.
-- **Tech Stack:** Python, Pandas.
+- **Tech Stack:** Python,Docker, Pandas.
 - **Key Takeaway:** Disciplined coding and script optimization.
-
-### 2. [Your-NextJS-Project-Name](LINK_TO_REPO)
-*Full Stack Web Application*
-(Description placeholder: e.g., A responsive e-commerce dashboard designed to handle real-time inventory...)
-- **Tech Stack:** Next.js, TypeScript, SQL, Docker.
-- **Focus:** Performance optimization, containerization, and type-safe architecture.
-
 ---
 
 ## 📊 GitHub Stats
